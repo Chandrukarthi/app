@@ -1,0 +1,6 @@
+Here's a concise EDA summary:
+
+*   This dataset describes individuals' age, gender, work stress, sleep hours, and self-reported mental health status.
+*   The provided sample is clean, showing no obvious missing values, duplicate records, or extreme outliers in numerical fields. Categorical entries are consistent.
+*   The most important issue is the very small sample size (10 records), which severely limits the ability to detect broader data quality problems or draw reliable conclusions.
+*   **Suggestion**: Expand the dataset significantly to include more diverse participants and uncover potential inconsistencies.
